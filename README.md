@@ -1,6 +1,12 @@
 # picAR
 C# scripts utilized in my "AR polaroid" project (iOS mobile app)
 
+project demo: 
+https://twitter.com/maynahrd/status/952972544075878400
+
+
+
+
 With credit to:
 
 https://gist.github.com/naojitaniguchi
