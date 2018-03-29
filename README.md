@@ -1,5 +1,6 @@
 # picAR
-picAR is a personal project of mine, an attempt to create an "AR polaroid" experience.
+picAR is a personal project of mine - an attempt to create an "AR polaroid" experience.
+On this project, I have been the sole developer.
 
 ![Alt Text](https://media.giphy.com/media/23mk20zt8D2F0jdQqf/giphy.gif)
 
