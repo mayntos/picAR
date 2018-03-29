@@ -1,6 +1,7 @@
 # picAR
+picAR is a personal project of mine, an attempt to create an "AR polaroid" experience.
 
-![Alt Text] (https://media.giphy.com/media/2UwFhmP1wxD7jpX6mI/giphy.gif)
+![Alt Text](https://media.giphy.com/media/2UwFhmP1wxD7jpX6mI/giphy.gif)
 
 Repository of picAR's assets. To build the project:
 1) Download project as .zip
@@ -12,9 +13,6 @@ Repository of picAR's assets. To build the project:
 project demo: 
 https://twitter.com/maynahrd/status/952972544075878400
 
-
-
-
 Referencing:
 
 https://gist.github.com/naojitaniguchi
@@ -24,4 +22,3 @@ https://gist.github.com/naojitaniguchi
 https://www.codeproject.com/Articles/47486/Understanding-and-Reading-Exif-Data
 
 (all Exif scripts + JpegInfo.cs come from the above Exif Reading library. PicScript.cs utilizes a code from these scripts)
-
