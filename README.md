@@ -12,7 +12,8 @@ Repository of picAR's assets. To build the project:
 
 project demo: 
 
-![Alt Text](https://media.giphy.com/media/uB0HTXCYq2YEigXpwT/giphy.gif) ![Alt Text](https://media.giphy.com/media/4N96pTMyGSKzONO5hG/giphy.gif)
+![Alt Text](https://media.giphy.com/media/j0P7CtnRdWzEFZfEEm/giphy.gif) 
+![Alt Text](https://media.giphy.com/media/4N96pTMyGSKzONO5hG/giphy.gif)
 
 Referencing:
 
