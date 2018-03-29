@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARPolaroid", "ARPolaroid.csproj", "{BA1E0D56-4E47-E5AA-6979-96C8E3F06E81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARPolaroid.Editor", "ARPolaroid.Editor.csproj", "{A48F2F55-FA18-F4EB-191E-69A677995F96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA1E0D56-4E47-E5AA-6979-96C8E3F06E81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA1E0D56-4E47-E5AA-6979-96C8E3F06E81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA1E0D56-4E47-E5AA-6979-96C8E3F06E81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA1E0D56-4E47-E5AA-6979-96C8E3F06E81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A48F2F55-FA18-F4EB-191E-69A677995F96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A48F2F55-FA18-F4EB-191E-69A677995F96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A48F2F55-FA18-F4EB-191E-69A677995F96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A48F2F55-FA18-F4EB-191E-69A677995F96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
