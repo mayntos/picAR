@@ -1,7 +1,7 @@
 # picAR
 picAR is a personal project of mine - an attempt to create an "AR polaroid" experience.
 
-![Alt Text](https://media.giphy.com/media/23mk20zt8D2F0jdQqf/giphy.gif)
+![Alt Text](https://gfycat.com/afraidmiserlyflamingo)
 
 Repository of picAR's assets. To build the project:
 1) Download project as .zip
@@ -12,8 +12,8 @@ Repository of picAR's assets. To build the project:
 
 project demo: 
 
-![Alt Text](https://media.giphy.com/media/j0P7CtnRdWzEFZfEEm/giphy.gif) 
-![Alt Text](https://media.giphy.com/media/4N96pTMyGSKzONO5hG/giphy.gif)
+![Alt Text](hhttps://gfycat.com/sociableoffbeatbaleenwhale) 
+![Alt Text](https://gfycat.com/gleefulaltruisticeastsiberianlaika)
 
 Referencing:
 
